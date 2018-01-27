@@ -1,0 +1,3 @@
+rootProject.name = 'redkeep'
+
+include ':app'
